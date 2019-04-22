@@ -1,2 +1,11 @@
+# IDEA files/directories
 .idea/
 *.iml
+
+# Airflow files/directories
+.local/
+logs/
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+unittests.cfg
